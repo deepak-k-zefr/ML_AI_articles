@@ -2,7 +2,7 @@
 Some good articles/blog posts on ML/AI.
 
 
-* [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c#.gxqsvoun4](https://blog.ought.com/nips-2016-875bb8fadb8c#.gxqsvoun4)
+* [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c#.gxqsvoun4)
 * [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ## Peter Norvig
