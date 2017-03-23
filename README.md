@@ -4,6 +4,8 @@ Some good articles/blog posts on ML/AI.
 
 * [50 things I learned at NIPS 2016](https://blog.ought.com/nips-2016-875bb8fadb8c#.gxqsvoun4)
 * [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.33rjdr44b)
+
 
 ## Peter Norvig
 * [Statistical Natural Language Processing in Python. How To Do Things With Words. And Counters. by Peter Norvig ](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)
